@@ -1,10 +1,9 @@
 ---
-layout: page
-title: About
-permalink: /about/
+layout: post
+title:  "Welcome to My Blog!"
+date:  Thu 23 Jun 2022 09:40:22 PM EDT
+categories: update
 ---
-
-### Origins of Max Bikes West
 
 After graduating high school, I fulfilled my lifelong dream of biking across
 the country. I had toyed with the idea of making a blog, but never did anything
