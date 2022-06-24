@@ -2,13 +2,13 @@
 layout: post
 title: "Finding my Wild West"
 date: Thu 23 Jun 2022 09:42:47 PM EDT
-categories: [update, cross-country]
+categories: cross-country
 ---
 
-> Note: This was an essay written about my cross country trip in a Memoir
-> Writing class during my first year at MIT. Names in the story are changed.
-> Also, this is just how I remember it a few years after. See more details in
-> [about]({{ site.baseurl }}{% link about.md %}).
+> Note: This was an essay written about the first half of my cross country trip
+> in a Memoir Writing class during my first year at MIT. Names in the story are
+> changed. Also, this is just how I remember it a few years after. See more
+> details in [about]({{ site.baseurl }}{% link about.md %}).
 
 The journey begins at a cafe in Davis Square, a few blocks from home, where I
 am to meet my traveling companions. Sitting at a table waiting for them to
