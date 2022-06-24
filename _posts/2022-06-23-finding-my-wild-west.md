@@ -45,7 +45,7 @@ in the places we’re going though, and although I’m not completely convinced,
 the average weather charts are reassuring. The plan is to drive down to
 Virginia from Boston together, and start biking West to California from there.
 
-![Packing]({{ site.baseurl }} {% link assets/img/clothes_layed_out.png %})
+![Packing]({{ site.baseurl }}{% link assets/img/clothes_layed_out.png %})
 
 Just a day before leaving Boston, I have all of my clothes and equipment laid
 out across the floor. I’d done bike touring trips before, so I had an idea
@@ -69,7 +69,7 @@ completely new bikes for this trip. Mike had even bought all of his bags and
 clothing with the bike, to the point that his jersey matched the paint job on
 his frame.
 
-![Dipping Wheels in the Atlantic]({{ site.baseurl }} {% link assets/img/wheel_dip_va.jpeg %})
+![Dipping Wheels in the Atlantic]({{ site.baseurl }}{% link assets/img/wheel_dip_va.jpeg %})
 
 We start slow, still getting used to our bikes and biking as a group. I’m much
 more adjusted to my bike than the other three, so I have no problem keeping up.
@@ -180,7 +180,7 @@ start to settle. There is no big conversation or apology, it is just the power
 of having bigger things to deal with. The fear of us falling apart again,
 however, looms large in my mind.
 
-![Kansas]({{ site.baseurl }} {% link assets/img/kansas_flat.jpg %})
+![Kansas]({{ site.baseurl }}{% link assets/img/kansas_flat.jpg %})
 
 Kansas is a very flat state. Some people say it’s “flat as a pancake”, but I
 like to think of it more as a waffle. The roads are all formed in a grid, some
@@ -258,7 +258,7 @@ actually a bit exciting. I could ride my own pace, my own distance, and not
 have to worry about the others. After all, I had been doing exactly that for
 parts of the past many days.
 
-![Broken Valve]({{ site.baseurl }} {% link assets/img/broken_valve.jpg %})
+![Broken Valve]({{ site.baseurl }}{% link assets/img/broken_valve.jpg %})
 
 Before it’s light out, my first day starting on my own, I end up with a flat.
 Not a normal flat, where the tube blows a hole or a leak somewhere, but the
@@ -308,7 +308,7 @@ for short segments back to the route when we had a rental car. After much
 deliberation, we decide to give into the weather, and we decide to drive out a
 few hundred miles west into the mountains. 
 
-![The Camper Van]({{ site.baseurl }} {% link assets/img/camper_van.jpg %})
+![The Camper Van]({{ site.baseurl }}{% link assets/img/camper_van.jpg %})
 
 The camper van is a bit of an eye sore. It’s a rental, painted in the most
 hippie colorful glitzy scheme, and to top it off, we load our bikes onto the
@@ -365,7 +365,7 @@ made it halfway with the three of them, but I was physically able to carry all
 of my things and was involved in most of the decisions. I find a fellow cyclist
 host to stay with for my first night, and say goodbye to Jen and Hannah.
 
-![Canyon Pass]({{ site.baseurl }} {% link assets/img/utah_pass.jpg %})
+![Canyon Pass]({{ site.baseurl }}{% link assets/img/utah_pass.jpg %})
 
 My hosts are a couple about the age of my parents, and they are absolutely
 wonderful stand-ins for them that first night. After a delicious dinner, they
@@ -388,4 +388,4 @@ Wild West!”.
 While our journey did start in Davis Square, my journey begins as I, fresh and
 emboldened, ride out alone into the desert.
 
-![Canyon View]({{ site.baseurl }} {% link assets/img/canyon_view.jpg %})
+![Canyon View]({{ site.baseurl }}{% link assets/img/canyon_view.jpg %})
