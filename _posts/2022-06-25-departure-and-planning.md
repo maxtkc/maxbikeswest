@@ -7,7 +7,7 @@ date: 2019-06-25 13:14:15
 #image: 'BASEURL/assets/blog/img/.png'
 #description:
 #permalink:
-title: 'We're off!'
+title: "We're off!"
 ---
 
 ### I'm bad at reading schedules
