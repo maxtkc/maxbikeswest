@@ -86,8 +86,9 @@ My warm showers host was a French man, Emmanuel, in Kingston, who texted me that
 
 The next day, I got up early for my ride through Albany to Saratoga springs.
 
-In Rensselaer, across the Hudson from Albany, I found a food truck selling sausages, a nice and quick stop
+In Rensselaer, across the Hudson from Albany, I found a food truck selling sausages, a nice and quick stop. Met Anthony, going the other direction, who advised me on the crossing over the river so I wouldn't get lost.
+
 ![Anthony_rensselaer_sausage]({{ site.baseurl }}/assets/img/Anthony_rensselaer_sausage.jpg)
 
-"Your bike is your passport to the world"
-- Lisa (hobo), Hob, Deb
+In Albany, the Empire State Trail splits North and West to Buffalo.
+
