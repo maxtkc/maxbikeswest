@@ -92,3 +92,4 @@ In Rensselaer, across the Hudson from Albany, I found a food truck selling sausa
 
 In Albany, the Empire State Trail splits North and West to Buffalo.
 
+![IMG_20220629_141721]({{ site.baseurl }}/assets/img/IMG_20220629_141721.jpg)
