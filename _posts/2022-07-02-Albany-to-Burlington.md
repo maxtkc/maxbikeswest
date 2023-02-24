@@ -1,11 +1,12 @@
 ---
 layout: post
 tags: []
-categories: []
+categories: [nyc-ca]
 date: 02-07-2022 07:50:11.11
 #excerpt: ''
-#image: 'BASEURL/assets/blog/img/.png'
-#description:
+image: 'IMG_20220630_160701.jpg'
+description: "Riding from Albany on the NY side of Lake Champlain and then
+crossing into VT to get to Burlington"
 #permalink:
 title: "Albany to Burlington"
 ---

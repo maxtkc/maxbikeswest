@@ -1,11 +1,13 @@
 ---
 layout: post
 tags: []
-categories: []
+categories: [nyc-ca]
 date: 30-06-2022 07:50:11.11
 #excerpt: ''
-#image: 'BASEURL/assets/blog/img/.png'
-#description:
+image: 'IMG_20220628_152334.jpg'
+description: "Riding through NYC, staying in Brooklyn with my cousins,
+Scarsdale with more cousins, and then riding up the Empire State Trail to
+Albany"
 #permalink:
 title: "NYC to Albany"
 ---

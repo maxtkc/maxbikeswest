@@ -1,11 +1,11 @@
 ---
 layout: post
 tags: []
-categories: []
+categories: [nyc-ca]
 date: 07-07-2022 07:50:11.11
 #excerpt: ''
-#image: 'BASEURL/assets/blog/img/.png'
-#description:
+image: 'IMG_20220703_130532.jpg'
+description: "Riding from Burlington, Vermont through Montreal to Mastigouche with my parents"
 #permalink:
 title: "Burlington to Mastigouche"
 ---

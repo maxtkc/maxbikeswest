@@ -2,7 +2,9 @@
 layout: post
 title: "Mountains to Deserts"
 date: Thu 23 Jun 2022 10:40:44 PM EDT
-categories: cross-country
+categories: [cross-country]
+image: 'mtd_blog_6.png'
+description: "Second half of cross country ride"
 ---
 
 > Note: This was an essay written about the second half of my cross country

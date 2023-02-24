@@ -4,8 +4,9 @@ tags: []
 categories: [nyc-ca]
 date: 26-06-2022 13:18:06.6
 #excerpt: ''
-#image: 'BASEURL/assets/blog/img/.png'
-#description:
+image: 'ferry_bikes.jpg'
+description: "Riding with my sister to Point Judith, and taking two ferries to
+Long Island, where I spend a day biking to NYC in very hot heat"
 #permalink:
 title: "To Long Island"
 ---

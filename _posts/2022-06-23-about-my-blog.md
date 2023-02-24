@@ -2,7 +2,7 @@
 layout: post
 title:  "Welcome to My Blog!"
 date:  Thu 23 Jun 2022 09:40:22 PM EDT
-categories: update
+categories: [update]
 ---
 
 After graduating high school, I fulfilled my dream of biking across

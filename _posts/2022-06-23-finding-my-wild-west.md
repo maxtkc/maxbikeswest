@@ -2,7 +2,9 @@
 layout: post
 title: "Finding my Wild West"
 date: Thu 23 Jun 2022 09:42:47 PM EDT
-categories: cross-country
+categories: [cross-country]
+image: 'canyon_view.jpg'
+description: "First half of cross country ride"
 ---
 
 > Note: This was an essay written about the first half of my cross country trip
