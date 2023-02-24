@@ -6,7 +6,7 @@ permalink: /about/
 
 ### Origins of Max Bikes West
 
-After graduating high school, I fulfilled my lifelong dream of biking across
+After graduating high school, I fulfilled my dream of biking across
 the country. I had toyed with the idea of making a blog, but never did anything
 about it. However, putting together scraps of pictures and creative
 interpretations of stories I had sent, my girlfriend and some of our friends
