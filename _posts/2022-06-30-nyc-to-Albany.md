@@ -26,7 +26,7 @@ The Bendits had mentioned that I would see some more traffic on my way out, as i
 
 ![IMG_20220627_113403]({{ site.baseurl }}/assets/img/IMG_20220627_113403.jpg)
 
-I stayed with the my cousins Dave and Irene in Brooklyn. I had dinner with them and their partners, and got to sleep in their roommates room because she was away. Her room both had AC, which was amazing, and a cat, who had some early morning routines, but other than that was amazing. Her name is fancy, and she wakes up with the sun and requires to be fed at that time. She also doesn't particularly enjoy when you fall back to sleep.
+I stayed with the my cousins Dave and Irene in Brooklyn. I had dinner with them and their partners, and got to sleep in their roommate's room because she was away. Her room both had AC, which was amazing, and a cat, who had some early morning routines, but other than that was amazing. Her name is fancy, and she wakes up with the sun and requires to be fed at that time. She also doesn't particularly enjoy when you fall back to sleep.
 
 ![IMG_20220627_113500]({{ site.baseurl }}/assets/img/IMG_20220627_113500.jpg)
 
@@ -34,7 +34,7 @@ Guess who's shirt this is haha
 
 ### Short day
 
-I stayed till around 3 in Brooklyn, doing laundry and waiting for the off and on rain to subside. When I found a break in the rain, I headed out, only to get poured on a couple miles in. It was a welcome change from the 90 degree heat of the day before. I took the Manhattan bridge over the water and started following signs for the west side. I was enjoying how easy it was to navigate Manhattan, because it's just a grid. When the west side signs told me to go south, I thought it would be easier to just stay straight because I wanted to go north in general, so I'd just make my own route from there. After a half hour of being surprised how wide Manhattan was, I noticed the signs saying East and West for the roads crossing the one I was on. When I checked my phone map, I noticed I was already halfway up Manhattan, and was 90 degrees away from where I thought I was.
+I stayed till around 3 in Brooklyn, doing laundry and waiting for the off and on rain to subside. When I found a break in the rain, I headed out, only to get poured on a couple miles in. It was a welcome change from the 90+ degree heat of the day before. I took the Manhattan bridge over the water and started following signs for the west side. I was enjoying how easy it was to navigate Manhattan, because it's just a grid. When the west side signs told me to go south, I thought it would be easier to just stay straight because I wanted to go north in general, so I'd just make my own route from there. After a half hour of being surprised how wide Manhattan was, I noticed the signs saying East and West for the roads crossing the one I was on. When I checked my phone map, I noticed I was already halfway up Manhattan, and was 90 degrees away from where I thought I was.
 
 ![IMG_20220627_170433]({{ site.baseurl }}/assets/img/IMG_20220627_170433.jpg)
 
@@ -68,7 +68,7 @@ About 60 miles in, I hear a cyclist come up alongside me. It's an older man on a
 
 > The ride travels over 3 mountain passes, 110-ish miles from Evergreen to Avon over Juniper Pass (11,140 ft), Loveland Pass (11,990 ft), and Vail Pass (10,560 ft), with over 10,000 ft of challenging elevation gain!
 
-I mentioned to him that I rode over Loveland pass with my dad last summer, and he added that he had the fastest time on that section. He drafted a bit off of me, although we ended up chatting most of the 30 miles he rode with me.
+I mentioned to him that I rode over Loveland pass with my dad last summer, and he added that he had the fastest time on that section. He drafted me a bit, although we ended up chatting most of the 30 miles we rode  together.
 
 ![IMG_20220628_175021]({{ site.baseurl }}/assets/img/IMG_20220628_175021.jpg)
 
@@ -80,7 +80,7 @@ I switched to a gravel trail in New Paltz that took me past a few caves, wafting
 
 ![IMG_20220628_185005]({{ site.baseurl }}/assets/img/IMG_20220628_185005.jpg)
 
-My warm showers host was a French man, Emmanuel, in Kingston, who texted me that he was out for a bit and to wait for him on the porch. He rolled up to his house riding a very dutch bicycle. He worked in IT and his house reflected it. His appliances were all very modern and fancy, motion detecting lights and top of the line washer and dryer. The rest of the house felt somewhat different, with many plants and a huge back window stretching all the way to the floor. I slept on a futon with a window facing the street.
+My warm showers host was a French man, Emmanuel, in Kingston, who texted me that he was out for a bit and to wait for him on the porch. He rolled up to his house riding a very Dutch bicycle. He worked in IT and his house reflected it. His appliances were all very modern and fancy, motion detecting lights and top of the line washer and dryer. The rest of the house felt somewhat different, with many plants and a huge back window stretching all the way to the floor. I slept on a futon with a window facing the street.
 
 ![IMG_20220629_070903]({{ site.baseurl }}/assets/img/IMG_20220629_070903.jpg)
 
@@ -92,6 +92,6 @@ In Rensselaer, across the Hudson from Albany, I found a food truck selling sausa
 
 ![Anthony_rensselaer_sausage]({{ site.baseurl }}/assets/img/Anthony_rensselaer_sausage.jpg)
 
-In Albany, the Empire State Trail splits North and West to Buffalo.
+In Albany, the Empire State Trail splits North (to Albany) and West (to Buffalo).
 
 ![IMG_20220629_141721]({{ site.baseurl }}/assets/img/IMG_20220629_141721.jpg)

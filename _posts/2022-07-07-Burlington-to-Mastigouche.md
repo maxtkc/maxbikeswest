@@ -23,7 +23,7 @@ Riding together!
 
 ### Burlington Causeway
 
-There is a beautiful causeway that stretches out of Burlington North to the
+There is a beautiful causeway that stretches out of Burlington north to the
 Hero Islands in Lake Champlain, with a small gap that a ferry services in the
 middle.
 
@@ -35,7 +35,7 @@ challenge, and I still have no idea what we would have done (swim?).
 
 ![52264054285_5ce3e73182_o]({{ site.baseurl }}/assets/img/52264054285_5ce3e73182_o.jpg)
 
-I don't know how we would swim this with my moms ebike...
+I don't know how we would swim this with my mom's e-bike...
 
 ![52270099645_55e685ab3b_o]({{ site.baseurl }}/assets/img/52270099645_55e685ab3b_o.jpg)
 
@@ -85,7 +85,7 @@ If I was an HTTP packed, I'd be lost
 
 ![IMG_20220706_145631]({{ site.baseurl }}/assets/img/IMG_20220706_145631.jpg)
 
-I learned this lake is named after my great grandmother Pricilla (I think)
+I learned this lake is named after my great grandmother Priscilla (I think)
 
 ![IMG_20220706_155410]({{ site.baseurl }}/assets/img/IMG_20220706_155410.jpg)
 
