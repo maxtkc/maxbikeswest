@@ -10,11 +10,16 @@ for file in "$IMG_DIR"/*.{jpg,jpeg};
 do
     full_filename=$(basename -- "$file");
     filename="${full_filename%.*}"
-    # Fix the rotation
-    tmpf="$(mktemp).jpg"
-    convert "$file" -auto-orient "$tmpf";
-    # Convert to webp
-    cwebp "$tmpf" -o "$IMG_DIR/webp/$filename.webp";
+    full_webp_path="$IMG_DIR/webp/$filename.webp"
+
+    if [ ! -f "$full_webp_path" ]
+    then
+        # Fix the rotation
+        tmpf="$(mktemp).jpg"
+        convert "$file" -auto-orient "$tmpf";
+        # Convert to webp
+        cwebp "$tmpf" -o "$full_webp_path";
+    fi
     # Replace instances of the image in _posts
-    gawk -i inplace "{gsub(/assets\/img\/$full_filename/,\"assets/img/webp/$filename.webp\");}1" "$REPO_DIR"/_posts/*.md;
+    gawk -i inplace "{gsub(/assets\/img\/$full_filename/,\"assets/img/webp/$filename.webp\"); gsub(/^image:.*$full_filename.*$/,\"image: 'webp/$filename.webp'\");}1" "$REPO_DIR"/_posts/*.md;
 done
