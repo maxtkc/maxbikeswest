@@ -21,7 +21,7 @@ stopped to share lunch and ice cream with them. Hob and Deb met Lisa hiking on
 the AT together. Hob and Deb had toured all over the place, often on tandem
 together.
 
-![IMG_20220630_130216]({{ site.baseurl }}/assets/img/IMG_20220630_130216.jpg)
+![IMG_20220630_130216]({{ site.baseurl }}/assets/img/webp/IMG_20220630_130216.webp)
 
 > Your bike is your passport to the world
 > -Hob
@@ -36,31 +36,31 @@ riding from there, and they said that they did. They then showed me a picture
 they got with them and my parents! I took a picture with them to send back to
 my mom.
 
-![IMG_20220630_152201]({{ site.baseurl }}/assets/img/IMG_20220630_152201.jpg)
+![IMG_20220630_152201]({{ site.baseurl }}/assets/img/webp/IMG_20220630_152201.webp)
 
 The ferry was guided by a cable!
 
-![IMG_20220630_155229]({{ site.baseurl }}/assets/img/IMG_20220630_155229.jpg)
+![IMG_20220630_155229]({{ site.baseurl }}/assets/img/webp/IMG_20220630_155229.webp)
 
 ### Vermont
 
 The Vermont side of lake Champlain is much less paved and more hilly, with many
 more farms all over the place. I followed the Champlain Bikeway up the coast.
 
-![IMG_20220630_160701]({{ site.baseurl }}/assets/img/IMG_20220630_160701.jpg)
+![IMG_20220630_160701]({{ site.baseurl }}/assets/img/webp/IMG_20220630_160701.webp)
 
 The sag in this bridge is not from distortion in the image... It may have once
 been 13'
 
-![IMG_20220630_182424]({{ site.baseurl }}/assets/img/IMG_20220630_182424.jpg)
+![IMG_20220630_182424]({{ site.baseurl }}/assets/img/webp/IMG_20220630_182424.webp)
 
 ### Sandy
 
 I stayed two nights at our family friend's cabin resting and waiting for my
 parents to ride the rest of the way to Canada.
 
-![IMG_20220701_091056]({{ site.baseurl }}/assets/img/IMG_20220701_091056.jpg)
+![IMG_20220701_091056]({{ site.baseurl }}/assets/img/webp/IMG_20220701_091056.webp)
 
 My parents arrived a day later.
 
-![52264054470_4bc2f55c8f_o]({{ site.baseurl }}/assets/img/52264054470_4bc2f55c8f_o.jpg)
+![52264054470_4bc2f55c8f_o]({{ site.baseurl }}/assets/img/webp/52264054470_4bc2f55c8f_o.webp)

@@ -32,10 +32,10 @@ Most of the days are just over 100 miles, except Brooklyn to Scarsdale, so maybe
 
 ### pics
 
-![Riding to South Station]({{ site.baseurl }}{% link assets/img/riding_to_South_station_w_Nina.jpg %})
+![Riding to South Station]({{ site.baseurl }}{% link assets/img/webp/riding_to_South_station_w_Nina.webp %})
 
 Not many cars out at 5am!
 
-![Commuter Rail To Providence]({{ site.baseurl }}{% link assets/img/commuter_rail_to_Providence_w_Nina.jpg %})
+![Commuter Rail To Providence]({{ site.baseurl }}{% link assets/img/webp/commuter_rail_to_Providence_w_Nina.webp %})
 
 Trying not to socialize too much
