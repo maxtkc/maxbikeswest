@@ -81,7 +81,7 @@ rode with us in the morning for the first part of the day.
 
 ### Mastigouche
 
-If I was an HTTP packed, I'd be lost
+If I were an HTTP packed, I'd be lost
 
 ![IMG_20220706_145631]({{ site.baseurl }}/assets/img/IMG_20220706_145631.jpg)
 
