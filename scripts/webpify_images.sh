@@ -10,8 +10,11 @@ for file in "$IMG_DIR"/*.{jpg,jpeg};
 do
     full_filename=$(basename -- "$file");
     filename="${full_filename%.*}"
+    # Fix the rotation
+    tmpf="$(mktemp).jpg"
+    convert "$file" -auto-orient "$tmpf";
     # Convert to webp
-    cwebp "$file" -o "$IMG_DIR/webp/$filename.webp";
+    cwebp "$tmpf" -o "$IMG_DIR/webp/$filename.webp";
     # Replace instances of the image in _posts
     gawk -i inplace "{gsub(/assets\/img\/$full_filename/,\"assets/img/webp/$filename.webp\");}1" "$REPO_DIR"/_posts/*.md;
 done
