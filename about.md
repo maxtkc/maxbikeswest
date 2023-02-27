@@ -27,3 +27,6 @@ but was a bit frustrated about how uncertain I was about exactly what had
 happened and didn't have the best pictures to back it all up. This blog is
 meant to be a place where I can continuously add my travel stories for myself
 and others to keep track of.
+
+Why is it still called **Max Bikes West** if you also go other directions now?
+It sounds nice. Most stuff is at least partially west of Boston...
