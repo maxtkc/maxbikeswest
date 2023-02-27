@@ -4,7 +4,7 @@ tags: []
 categories: [nyc-ca]
 date: 10-07-2022 07:50:11.11
 #excerpt: ''
-image: 'IMG_20220709_211411.jpg'
+image: 'webp/IMG_20220709_211411.webp'
 description: "Riding back to Montreal from Mastigouche"
 #permalink:
 title: "Back to Montreal"

@@ -4,7 +4,7 @@ tags: []
 categories: [nyc-ca]
 date: 25-06-2022 10:34:58.58
 #excerpt: ''
-image: 'commuter_rail_to_Providence_w_Nina.jpg'
+image: 'webp/commuter_rail_to_Providence_w_Nina.webp'
 description: "First post of the trip on our way to Long Island and beyond"
 #permalink:
 title: "We're off!"

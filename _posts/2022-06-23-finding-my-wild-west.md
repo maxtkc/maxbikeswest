@@ -3,7 +3,7 @@ layout: post
 title: "Finding my Wild West"
 date: Thu 23 Jun 2022 09:42:47 PM EDT
 categories: [cross-country]
-image: 'canyon_view.jpg'
+image: 'webp/canyon_view.webp'
 description: "First half of cross country ride"
 ---
 
