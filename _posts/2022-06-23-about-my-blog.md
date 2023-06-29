@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: trip_post
 title:  "Welcome to My Blog!"
 date:  Thu 23 Jun 2022 09:40:22 PM EDT
 categories: [update]

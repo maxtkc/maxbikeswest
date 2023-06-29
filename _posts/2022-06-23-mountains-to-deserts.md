@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: trip_post
 title: "Mountains to Deserts"
 date: Thu 23 Jun 2022 10:40:44 PM EDT
 categories: [cross-country]

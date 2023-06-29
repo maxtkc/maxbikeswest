@@ -5,6 +5,14 @@ title: Max Bikes West
 
 <div class="home" id="home">
   <h1 class="pageTitle">Recent Posts</h1>
+  <div class="tags">
+      {% assign sortedCategories = site.categories | sort %}
+      {% for category in sortedCategories %}
+          <span class="tag">
+              <a href="{{ site.baseurl }}/category/{{ category | first }}">#{{ category | first }}</a>
+          </span>
+      {% endfor %}
+  </div>
   <ul class="posts noList">
     {%- for post in paginator.posts -%}
       <li>

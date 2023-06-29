@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: trip_post
 title: "Finding my Wild West"
 date: Thu 23 Jun 2022 09:42:47 PM EDT
 categories: [cross-country]

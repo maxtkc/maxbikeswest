@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: trip_post
 tags: []
 categories: [nyc-ca]
 date: 26-06-2022 13:18:06.6

@@ -35,3 +35,7 @@ plugins:
   - jekyll-feed
   - jekyll-remote-theme
   - jekyll-sitemap
+
+collections:
+  category:
+    output: true
