@@ -4,84 +4,109 @@ tags: []
 categories: [island-hopping]
 date: 16-08-2023
 #excerpt: ''
-image: 'webp/20230702_085457.webp'
+image: '20230816_070058.jpg'
 description: 'Planning is hard'
 #permalink:
-title: 'Biking in ~Nova Scotia~ New Brunswick'
+title: 'What's the point of a plan if it doesn't change?'
 ---
 
-![]({{ site.baseurl }}/assets/img/webp/strava1336435262072988982.webp)
+I haven't packed this much on my bike since going across the country!
 
-After half bailing yesterday, this morning I wasn't really sure what I was
-doing, and so I started tentatively on vtxl. It was raining pretty hard and the
-back and forth of ideas and being unsure of where I was going led me to be
-a combination of scared and stressed. It takes a lot of mental energy to figure
-out where to sleep every night when traveling by bike, and rain adds a lot to
-that (especially when you don't have the right gear for it). I just finished
-the book "Utopia for Realists", and it discusses the idea of limited mental
-bandwidth, and how lots of people can make all of the right decisions if they
-have all the time in the world to think about it, but all of that thinking time
-has a cost. I'm lucky to be able to spend my mental bandwidth on so many things
-other than my daily survival and work.
+![]({{ site.baseurl }}/assets/img/20230816_075256.jpg)
 
-![]({{ site.baseurl }}/assets/img/webp/20230702_071441.webp)
+While we were originally planning on going to Nova Scotia, the timing was too tricky for that so we bailed and picked southern coastal New Brunswick. There are a number of small and often free ferries up there, and the great thing that comes with many ferries is many islands!
 
-Once I resolved to go to Hanover, the uncertainty vanished and all of a sudden
-my mood changed to a strange cycling euphoria. I knew what I was doing and knew
-I could do it, and the world felt lighter. On every bike trip, at least once,
-I get a sort of chills over my body and I just feel fantastic, bursting with
-energy and drive. Sometimes it's the first few pedal strokes in the morning,
-sometimes the top of a climb, and sometimes meeting a person or seeing an
-animal. There are a lot of ups and downs while touring, emotionally, physically
-in Vermont especially, and sometimes I wonder why I'm doing it. But after every
-trip, I always long to go back out on my bike, and I look fondly on both the
-ups and downs, sometimes remembering even the downs fondly because of the
-challenges they came with and because I have the peace of mind of the
-resolution. I guess us humans are a bit stupid in that way.
+![]({{ site.baseurl }}/assets/img/20230816_124934.jpg)
 
-![]({{ site.baseurl }}/assets/img/webp/20230702_110420.webp)
+I had lunch in Bangor on my layover.
 
-I had to name the gpx file for the route `v2` because I have bailed out to Hanover before, last
-time on a trip with my dad from Littleton, NH, also on Concord Coach and on
-VTXL. This time it's my fault, and here is a short list of excuses:
+I'm currently on the West's Transportation bus on my way from Concord Coach in Bangor, ME to Whiting, ME, just ten miles from the Canadian border. While we have not picked up any other passengers, we have stopped for gas and a bathroom. The driver is very friendly and made some comments about Mo's volume, as she had driven Mo and my dad up to the same spot yesterday. I'm a day behind, so tomorrow I'll get up early and see if I can catch them on Grand Manan Island.
 
-- the air quality was bad, and my parents were very worried about my lungs
-- the rain was way worse than I expected
-- I don't trust my tent fly hammock setup fully in the rain. Why did I half test it at home and then bring it if I didn't really test it? I'm an optimist
-- mosquitoes
-- black flies
-- I saw a bear and it was scary
-- I saw a skunk and it was scary
-- I just generally don't like camping in the rain
-- mud is slippery and tiring
-- my rear derailleur kinda goes into manual mode in the rain (I should figure out this issue)
-- I'll come back and do it again sometime
-- A package got delivered to my house today and I need to take it inside
-- my Garmin kept bugging out
+Because I didn't know when I'd join them, here's the detailed itinerary I sent:
 
-![]({{ site.baseurl }}/assets/img/webp/20230702_143339.webp)
-
-My route back to Hanover was actually on about 50% gravel anyways, which was
-cool. I do like finding my own cool routes.
-
-![]({{ site.baseurl }}/assets/img/webp/20230702_110952.webp)
-
-Why do I need excuses if it's my trip and I get to do what I want? Because
-I set goals for myself and I like to achieve them. My plans rarely go as
-planned, but it's always hard to let myself to stray from my original goals.
-
-![]({{ site.baseurl }}/assets/img/webp/20230702_143840.webp)
-
-![]({{ site.baseurl }}/assets/img/webp/20230702_143837.webp)
-
-My bus drivers glasses just broke... Should I be worried?
-
-> I have been informed that you can drive without glasses if you have
-a specific type of vision issues. Interesting.
-
-![]({{ site.baseurl }}/assets/img/webp/20230702_154427.webp)
-
-Had to change clothes before the bus ride. Used the 'change under the rain fly
-and wash off in the spigot in the middle of Dartmouth campus' trick.
-
-![]({{ site.baseurl }}/assets/img/webp/20230702_160545.webp)
+> Concord Coach
+> - Boston South Station 8:00 AM -> Bangor 12:10 PM (Dad)
+> - Portland 10:00 AM -> Bangor 12:10 PM (Mo)
+> 
+> West's Transportation
+> - http://www.westbusservice.com/
+> - 1-800-596-2823
+> - Bangor (Concord Trailways) 2:00 PM -> Whiting (Community Center/Store) 4:50 PM
+> - $26/person + $7/bike
+> - Correct change only
+> 
+> Whiting -> Lubec
+> - Cycling
+> - 11.2 mi
+> - Take ME 189 East out of Whiting, continue straight 11.2 mi to Lubec
+> 
+> Time Zone Change! Times in this list will now be in ADT = EDT + 1
+> 
+> Campobello Island
+> - Cycling Lubec -> Welshpool
+> - Border Crossing
+> - 3.5 mi
+> - Cross the bridge to the island
+> - Follow the main road untill it ends
+> - Turn Left, and the ferry should be on your left
+> 
+> East Coast Ferries Ltd
+> - http://www.eastcoastferriesltd.com/Fares-Schedule.html
+> - (506) 747-2159
+> - Cash, Debit or Credit
+> - Leaves Campobello on the hour starting at 9:00 AM ending at 7:00 PM
+> - Bicycles/Passenger - $ 7.00
+> 
+> Deer Island
+> - Cycling
+> - 9.3 mi
+> - Go on the road north, then turn right or left
+> - If you go left, you go through fairhaven
+> - If you go right, you go through Leonardville (slightly longer)
+> - Turn North when the roads hit a T intersection on the big road towards Stuart
+> - Town where your next ferry is
+> 
+> Coastal Transport
+> - https://deerisland.coastaltransport.ca/schedule.html
+> - (506) 662-3724
+> - Leaves Deer on the half hour starting at 6:00 AM ending at 10:00 PM
+> - Free!
+> 
+> L'Etete -> Blacks Harbor
+> - 23.4 mi
+> - Either take ME 172 (Right) to St George or take Mascarene Road (Left, maybe nicer)
+> - Regarless, you'll end up on ME 172/Fundy Bay Drive
+> - Turn Left on L'Etete Road After the Irving Gas Station
+> - Quickly turn Right on Main Street
+> - Quickly turn right on the NB trail after Simpson Court
+> - Turn right on ME 785 at the Wilsons Gas Station
+> - Turn Right on ME 176/785 over Rt 1
+> - At the Harbor Tide Inn B&B, turn right on Main St
+> 
+> Coastal Transport
+> - https://grandmanan.coastaltransport.ca/schedule.html
+> - (506) 662-3724
+> - Leaves Deer on the half hour starting at 6:00 AM ending at 10:00 PM
+> - Fees are only charged on the way back (good luck charlie!)
+> - Departing Black's Harbor: 7:30 AM, 9:30 AM, 11:30 AM, 1:30 PM, 3:30 PM, 5:30 PM, 9:00 PM
+> - Departing Grand Manan: 7:30 AM, 9:30 AM, 11:30 AM, 1:30 PM, 3:30 PM, 5:30 PM, 7:15 PM
+> - $13/Person + $4.50/Bicycle
+> - In Person Payment Methods
+> - Cash, debit or Visa, MasterCard, and American Express
+> 
+> I digress. At this point, have fun on the island, hopefully I'll be there.
+>   Maybe go over to White's Head on the ferry (also run by coastal transport and
+>   free). Should be very doable. Stay wherever you want (I think it's pretty
+>   rural). Call if you're lost, or just ask someone. The general idea after this
+>   is just to go to Calais and catch the West's bus back home.
+> 
+> Conversions
+> - Where is? Ou est? Ex. Ou est Black's Harbor?
+> - How much does this cost? Combien ça coûte? Pronounced, "Com-bee-en sa coot"
+> - I'm realizing that they might not speak french there...
+> - EDT = ADT - 1
+> - ADT = EDT + 1
+> - \$1 CA = \$0.74 US
+> - \$1 US = \$1.35 US
+> - Don't get scammed at the border!
+> - Don't lose your passport!
