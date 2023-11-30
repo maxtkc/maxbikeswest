@@ -7,7 +7,7 @@ date: 16-08-2023
 image: '20230816_070058.jpg'
 description: 'Planning is hard'
 #permalink:
-title: 'What's the point of a plan if it doesn't change?'
+title: "What's the point of a plan if it doesn't change?"
 ---
 
 I haven't packed this much on my bike since going across the country!
