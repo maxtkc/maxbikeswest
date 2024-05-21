@@ -2,12 +2,12 @@
 layout: trip_post
 tags: []
 categories: [east-coast-thumbs]
-date: 30-12-2023
+date: 6-1-2024
 #excerpt: ''
 image: '20231229_223032.jpg'
-description: 'Less Hitching, More Skating (and bussing)'
+title: 'Some Hitching'
 #permalink:
-title: "The train is so fast... Relatively"
+#title: "The train is so fast... Relatively"
 ---
 
 ### Today's goals
