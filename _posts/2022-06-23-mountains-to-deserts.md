@@ -15,7 +15,7 @@ description: "Second half of cross country ride"
 
 ### Blog 1: Boat Launch
 
-![Blog 1]({{ site.baseurl }}{% link assets/img/mtd_blog_1.png %})
+![Blog 1]({{ site.baseurl }}{% link assets/img/mtd_blog_9.png %})
 
 Dear Reader,
 
@@ -52,7 +52,7 @@ with the sun setting, so I should head to bed now.
 
 ### Blog 2:
 
-![Blog 2]({{ site.baseurl }}{% link assets/img/mtd_blog_2.png %})
+![Blog 2]({{ site.baseurl }}{% link assets/img/mtd_blog_7.png %})
 
 Dear Reader,
 
@@ -171,7 +171,7 @@ be on a larger road for most of the ride. I guess that is the trade-off.
 
 ### Blog 5: Leaving the Reservation
 
-![Blog 5]({{ site.baseurl }}{% link assets/img/mtd_blog_5.png %})
+![Blog 5]({{ site.baseurl }}{% link assets/img/mtd_blog_10.png %})
 
 Dear Reader,
 
@@ -209,7 +209,7 @@ though, because then there will be food, water, and restrooms.
 
 ### Blog 6: Fire Station
 
-![Blog 6]({{ site.baseurl }}{% link assets/img/mtd_blog_6.png %})
+![Blog 6]({{ site.baseurl }}{% link assets/img/mtd_blog_1.png %})
 
 Dear Reader,
 
@@ -236,7 +236,7 @@ meet him at his “tool shop”. I’ll let you know what that is.
 
 ### Blog 7: Fish Tacos
 
-![Blog 7]({{ site.baseurl }}{% link assets/img/mtd_blog_7.png %})
+![Blog 7]({{ site.baseurl }}{% link assets/img/mtd_blog_2.png %})
 
 Dear Reader,
 
@@ -362,7 +362,7 @@ comfortable, pulling me to sleep.
 
 ### Blog 9: Bait Shop
 
-![Blog 9]({{ site.baseurl }}{% link assets/img/mtd_blog_9.png %})
+![Blog 9]({{ site.baseurl }}{% link assets/img/mtd_blog_5.png %})
 
 Dear Reader,
 
@@ -414,7 +414,7 @@ It’s 90 miles to Brawley, so a long day, regardless.
 
 ### Blog 10: Hitchhiking
 
-![Blog 10]({{ site.baseurl }}{% link assets/img/mtd_blog_10.png %})
+![Blog 10]({{ site.baseurl }}{% link assets/img/mtd_blog_6.png %})
 
 Dear Reader,
 
