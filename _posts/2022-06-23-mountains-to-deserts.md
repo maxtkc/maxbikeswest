@@ -3,7 +3,7 @@ layout: trip_post
 title: "Mountains to Deserts"
 date: Thu 23 Jun 2022 10:40:44 PM EDT
 categories: [cross-country]
-image: 'mtd_blog_6.png'
+image: 'canyon_view.jpg'
 description: "Second half of cross country ride"
 ---
 
